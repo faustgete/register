@@ -1,0 +1,17 @@
+{
+    "description": "Project Description",
+    "domain": "is-cool.dev",
+    "subdomain": "1525001",
+
+    "owner": {
+        "repo": "https://github.com/faustgete/register",
+        "email": "hello@example.com"
+    },
+
+    "record": {
+        "A": ["5.23.51.236"]
+       
+    },
+
+    "proxied": false
+}
